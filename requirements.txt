@@ -44,7 +44,7 @@ pyparsing==2.4.0
 pytest-cov==2.7.1
 python-dateutil==2.8.0
 pytz==2019.3
-PyYAML==3.13
+PyYAML==5.1
 records==0.5.2
 requests==2.21.0
 six==1.14.0
